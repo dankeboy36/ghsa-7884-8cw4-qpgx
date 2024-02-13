@@ -1,0 +1,11 @@
+{
+  "name": "other",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "echo": "echo \"other\""
+  },
+  "keywords": [],
+  "author": "dankeboy36",
+  "license": "MIT"
+}

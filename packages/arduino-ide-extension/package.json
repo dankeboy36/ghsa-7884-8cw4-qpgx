@@ -1,0 +1,11 @@
+{
+  "name": "arduino-ide-extension",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "echo": "echo \"arduino-ide-extension\""
+  },
+  "keywords": [],
+  "author": "dankeboy36",
+  "license": "MIT"
+}

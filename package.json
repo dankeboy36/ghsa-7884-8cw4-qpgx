@@ -1,0 +1,16 @@
+{
+  "name": "ghsa-7884-8cw4-qpgx",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Bare minimum setup to reproduce https://github.com/advisories/GHSA-7884-8cw4-qpgx. See: https://github.com/github/advisory-database/issues/3487",
+  "scripts": {
+    "echo": "npm run echo --workspaces"
+  },
+  "workspaces": [
+    "packages/arduino-ide-extension",
+    "packages/other"
+  ],
+  "keywords": [],
+  "author": "dankeboy36",
+  "license": "MIT"
+}
